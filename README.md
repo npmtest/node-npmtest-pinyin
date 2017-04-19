@@ -1,4 +1,7 @@
-# test coverage for  [pinyin (v2.8.3)](http://pinyin.hotoo.me/)  [![npm package](https://img.shields.io/npm/v/npmtest-pinyin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pinyin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pinyin.svg)](https://travis-ci.org/npmtest/node-npmtest-pinyin)
+# npmtest-pinyin
+
+#### basic test coverage for  [pinyin (v2.8.3)](http://pinyin.hotoo.me/)  [![npm package](https://img.shields.io/npm/v/npmtest-pinyin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pinyin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pinyin.svg)](https://travis-ci.org/npmtest/node-npmtest-pinyin)
+
 #### 汉语拼音转换工具。
 
 [![NPM](https://nodei.co/npm/pinyin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pinyin)
